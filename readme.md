@@ -1,2 +1,2 @@
-#web ödevim#
+# web ödevim #
 ilk web sayfam.
